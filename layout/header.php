@@ -34,7 +34,7 @@
                         <li>
                             <a href="#"><i class="fa fa-menu-arrow pull-right"></i>Registration</a>
                             <ul>
-                                <li><a href="#">Customer</a></li>
+                                <li><a href="customer_registration.php">Customer</a></li>
                                 <li><a href="#">Complaint</a></li>
                             </ul>
                         </li>
